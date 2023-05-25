@@ -3,7 +3,7 @@
 
 ## 💾 Arquitecto de Soluciones y programador 💻
 
-Soy ingeniero y profesor colaborador en la UOC (Universitat Oberta de Catalunya) trabajando actualmente como Solutions Architect Team Lead.
+Soy ingeniero, trabajando actualmente como Solutions Architect Team Lead, y profesor colaborador en la UOC (Universitat Oberta de Catalunya).
 
 🔭 Los proyectos que publico aquí son de muy diversa índole, pero hasta ahora, sobre todo han ido enfocados hacia la gestión documental, ciberseguridad y utlidades diversas.
 
