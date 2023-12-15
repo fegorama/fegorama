@@ -1,6 +1,6 @@
 ## F3GoR - Fernando González
 
-Proyectos sobre entornos Java (SpringBoot, JavaEE, etc.), programación en C/C++ para microcontroladores (ESP32 y Arduino) y ciberseguridad, Python,...
+Proyectos sobre entornos Java (SpringBoot, JavaEE, etc.), programación en C/C++ para microcontroladores (ESP32 y Arduino), ciberseguridad, Python,...
 
 📫 Blog: [**Fegor**](https://www.fegor.com/), LinkedIn: [**LinkedIn**](https://www.linkedin.com/in/fegor/)
 
