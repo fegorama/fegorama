@@ -2,7 +2,7 @@
 
 Proyectos sobre entornos Java (SpringBoot, JavaEE, etc.), programación en C/C++ para microcontroladores (ESP32 y Arduino), ciberseguridad, Python,...
 
-📫 Blog: [**Fegor**](https://www.fegor.com/), LinkedIn: [**LinkedIn**](https://www.linkedin.com/in/fegor/)
+📫 Blog: [**Fegor**](https://www.fernandogonzalez.es/), LinkedIn: [**LinkedIn**](https://www.linkedin.com/in/fegor/)
 
 <!--
 **fegorama/fegorama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
