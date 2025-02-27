@@ -1,4 +1,4 @@
-## Fegor - Fernando González (Fl0ppyH4ck)
+## Fegor
 
 Proyectos sobre entornos Java (SpringBoot, JavaEE, etc.), programación en C/C++ para microcontroladores (ESP32 y Arduino), ciberseguridad, Python,...
 
